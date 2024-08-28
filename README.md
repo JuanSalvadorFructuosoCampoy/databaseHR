@@ -1,3 +1,6 @@
+GESTIÓN DE LA BASE DE DATOS HR
+-------------------------------
+
 El presente proyecto consiste en la parte backend de una aplicación que permite gestionar la base de datos HR (una base de datos gratuita que proporciona Oracle con fines académicos).
 
 Dicho proyecto permite hacer el CRUD de todas las tablas de la base de datos: Employees, Departments, Locations, Countries, Regions, Jobs y Job History. En la siguiente enlace podemos ver el esquema de la base de datos HR: 
